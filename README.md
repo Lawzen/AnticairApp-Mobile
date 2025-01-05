@@ -1,7 +1,7 @@
 # Anticair App - Application d'Annonces
 
 ## Description
-Anticair est une application d'annonces développée en utilisant Flutter pour le front-end et Spring Boot pour le back-end. Cette application a été réalisé lors de ma ddernière année à la HELHa celle-ci permet aux utilisateurs de créer, modifier, supprimer et consulter des annonces.
+Anticair est une application d'annonces développée en utilisant Flutter pour le front-end et Spring Boot pour le back-end. Cette application a été réalisé lors de ma dernière année à la HELHa celle-ci permet aux utilisateurs de créer, modifier, supprimer et consulter des annonces.
 
 ---
 
